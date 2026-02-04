@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+
+# Neovim cache
+nvim/.luarc.json
+nvim/.lazy/
+nvim/.mason/
+
+# Logs
+*.log
+
